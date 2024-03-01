@@ -1,0 +1,31 @@
+body {
+    background-color: #76838a;
+}
+
+
+
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f7f7f7;
+    color: #333;
+    line-height: 1.6;
+}
+
+button {
+  
+    border-color: #35424a;
+    color: #000;
+    border-radius: 200px;
+
+   
+}
+footer {
+    background-color: #35424a;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
